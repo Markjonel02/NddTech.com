@@ -162,9 +162,9 @@ section {
 }
 
 .home .slide .content h3 {
-  font: weight 500;
-  font-size: 6rem;
-  color: white;
+
+  font-size: 4rem;
+  color: #f00;
   padding: 1rem 0;
 }
 
